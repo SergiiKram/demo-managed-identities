@@ -1,4 +1,5 @@
 [![.NET](https://github.com/SergiiKram/demo-managed-identities/actions/workflows/dotnet.yml/badge.svg)](https://github.com/SergiiKram/demo-managed-identities/actions/workflows/dotnet.yml)
+[![CodeQL](https://github.com/SergiiKram/demo-managed-identities/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/SergiiKram/demo-managed-identities/actions/workflows/codeql-analysis.yml)
 
  # Managed Identities and secrets in .NET and Azure
 
