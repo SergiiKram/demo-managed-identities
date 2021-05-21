@@ -1,4 +1,6 @@
-﻿# Managed Identities and secrets in .NET and Azure
+[![.NET](https://github.com/SergiiKram/demo-managed-identities/actions/workflows/dotnet.yml/badge.svg)](https://github.com/SergiiKram/demo-managed-identities/actions/workflows/dotnet.yml)
+
+ # Managed Identities and secrets in .NET and Azure
 
 These are three sample apps to demo managed identities for Azure resources​ and best practices for secrets management.
 
