@@ -1,8 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using Azure.Identity;
+﻿using Azure.Identity;
 using Azure.Storage.Blobs;
 using Microsoft.Extensions.Options;
+using System;
+using System.Collections.Generic;
 
 namespace WebServiceManagedIdentity.Infrastructure
 {

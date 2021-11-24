@@ -1,6 +1,6 @@
-﻿using System.Collections.Generic;
-using Azure.Storage.Blobs;
+﻿using Azure.Storage.Blobs;
 using Microsoft.Extensions.Options;
+using System.Collections.Generic;
 
 namespace WebServiceUnsafe.Infrastructure
 {

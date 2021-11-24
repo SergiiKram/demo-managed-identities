@@ -6,11 +6,11 @@ using Xunit;
 namespace WebServiceManagedIdentity.Tests
 {
     public class SmokeTests
-        : IClassFixture<WebApplicationFactory<Startup>>
+        : IClassFixture<WebApplicationFactory<Program>>
     {
-        private readonly WebApplicationFactory<Startup> _factory;
+        private readonly WebApplicationFactory<Program> _factory;
 
-        public SmokeTests(WebApplicationFactory<Startup> factory)
+        public SmokeTests(WebApplicationFactory<Program> factory)
         {
             _factory = factory;
         }
