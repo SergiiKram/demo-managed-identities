@@ -7,6 +7,9 @@ version: 2
 updates:
   - package-ecosystem: "nuget" # See documentation for possible values
     directory: "/" # Location of package manifests
+    ignore:
+     - dependency-name: "Microsoft.AspNetCore.*"
+       update-types: ["version-update:semver-major"]
     schedule:
       interval: "daily"
     open-pull-requests-limit: 10
